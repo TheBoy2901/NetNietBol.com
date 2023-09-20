@@ -3,5 +3,5 @@
 <title>Bol.com</title>
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
 </head>
-<h>Bol.com ohio</h>
+<h>Bol.com</h>
 </html>
