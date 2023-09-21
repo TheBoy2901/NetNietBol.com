@@ -1,11 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Bol.com</title>
-<link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
-</head>
-<body>
-<h>Bol.com</h>
+
 <style>
 body {
   background-color:white;
@@ -35,7 +31,7 @@ li a:hover:not(.active), .dropdown:hover .dropbtn {
 }
 
 .active {
-	background-color: #111;
+	background-color: #04AA6D;
 }
 
 li.dropdown {
@@ -79,5 +75,11 @@ li.dropdown {
   </li>
 </ul>
 
+</head>
+<body>
+<h>Bol.com</h>
+
+<title>Bol.com</title>
+<link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
 </body>
 </html>
