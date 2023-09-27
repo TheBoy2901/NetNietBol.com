@@ -4,13 +4,18 @@
 <link rel="stylesheet" href="stijl.css">
 
 <ul>
+
 <li><a class="active" href="index.php">Home</a></li>
-	<a href="javascript:void(0)" class="dropbtn">Catogoriën</a>
-    <div class="dropdown-content">
+
+  <li class="dropdown">
+	<a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
+    <div class="dropdown-content2">
       <a href="catogoriën.php">Speelgoed</a>
       <a href="#">Link 2</a>
       <a href="#">Link 3</a>
     </div>
+  </li>
+
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
     <div class="dropdown-content">
@@ -19,6 +24,7 @@
       <a href="#">Link 3</a>
     </div>
   </li>
+
 </ul>
 
 </head>
