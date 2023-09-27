@@ -5,7 +5,12 @@
 
 <ul>
 <li><a class="active" href="index.php">Home</a></li>
-  <li><a href="catogoriën.php">Catogoriën</a></li>
+	<a href="javascript:void(0)" class="dropbtn">Catogoriën</a>
+    <div class="dropdown-content">
+      <a href="catogoriën.php">Speelgoed</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
     <div class="dropdown-content">
