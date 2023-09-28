@@ -10,9 +10,12 @@
   <li class="dropdown">
 	<a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
     <div class="dropdown-content">
-      <a href="catogoriën.php">Speelgoed</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="catogoriën.php">Auto en Motor</a>
+      <a href="#">Computers</a>
+      <a href="#">Elektronica</a>
+       <a href="#">Games</a>
+        <a href="#">Speelgoed</a>
+         <a href="#">Verzorging</a>
     </div>
   </li>
 
