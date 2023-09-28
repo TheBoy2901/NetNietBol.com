@@ -11,12 +11,15 @@
   <a href="javascript:void(0)" class="active" class="dropbtn2">Catogoriën</a>
     <div class="dropdown-content">
       <a href="AutoEnMotor.php">Auto en Motor</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="#">Computers</a>
+      <a href="#">Elektronica</a>
+      <a href="#">Games</a>
+      <a href="#">Speelgoed</a>
+      <a href="#">Verzorging</a>
     </div>
   </li>
 
-  <li class="dropdown">
+  <li style="float: right" class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
     <div class="dropdown-content">
       <a href="#">Link 1</a>
