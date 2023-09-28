@@ -10,7 +10,7 @@
   <li class="dropdown">
 	<a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
     <div class="dropdown-content">
-      <a href="catogoriën.php">Auto en Motor</a>
+      <a href="AutoEnMotor.php">Auto en Motor</a>
       <a href="#">Computers</a>
       <a href="#">Elektronica</a>
        <a href="#">Games</a>
@@ -19,7 +19,7 @@
     </div>
   </li>
 
-  <li class="dropdown">
+  <li style="float: right" class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
     <div class="dropdown-content">
       <a href="#">Link 1</a>
