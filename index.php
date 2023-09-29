@@ -20,11 +20,11 @@
   </li>
 
   <li style="float: right" class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+    <a href="javascript:void(0)" class="dropbtn">Klantenservice</a>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+      <a href="#">Bestelstatus</a>
+      <a href="#">Bedrijfsgegevens</a>
+      <a href="#">Bestelgeschiedenis</a>
     </div>
   </li>
 
@@ -38,3 +38,4 @@
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
 </body>
 </html>
+>
