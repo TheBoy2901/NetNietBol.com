@@ -38,4 +38,3 @@
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
 </body>
 </html>
->
