@@ -32,7 +32,7 @@
 
 </head>
 <body>
-<h>Bol.com catogoriën</h>
+<h1>Auto en Motor</h1>
 
 <title>Bol.com</title>
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
