@@ -24,7 +24,6 @@
     <div class="dropdown-content">
       <a href="#">Bestelstatus</a>
       <a href="#">Bedrijfsgegevens</a>
-      <a href="#">Bestelgeschiedenis</a>
     </div>
   </li>
 
