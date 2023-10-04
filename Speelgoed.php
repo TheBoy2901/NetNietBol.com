@@ -12,7 +12,7 @@
     <div class="dropdown-content">
       <a href="AutoEnMotor.php">Auto en Motor</a>
       <a href="Computers.php">Computers</a>
-      <a href="ELektronica.php">Elektronica</a>
+      <a href="Elektronica.php">Elektronica</a>
       <a href="Games.php">Games</a>
       <a href="Speelgoed.php">Speelgoed</a>
       <a href="Verzorging.php">Verzorging</a>
