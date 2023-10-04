@@ -31,7 +31,7 @@
 
 </head>
 <body>
-<h1>Auto en Motor</h1>
+<h>Auto en Motor</h>
 
 <title>Bol.com</title>
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
