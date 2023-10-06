@@ -47,14 +47,14 @@ table, th, td {
     <th>Price</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td></td>
+    <td>Parkeerschijf</td>
+    <td>$1.25</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td></td>
+    <td>Telefoonhouder</td>
+    <td>$19.99</td>
   </tr>
 </table>
 
