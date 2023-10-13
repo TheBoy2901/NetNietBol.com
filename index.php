@@ -1,14 +1,7 @@
-<!doctype html>
-<html>
-<head>
-<link rel="stylesheet" href="stijl.css">
-
-<ul>
-
-<li><a class="active" href="index.php">Home</a></li>
-
+<li><a href="index.php" style="padding: 0px" ><img src="scrum.png" width="60" height="45"></a></li>
+<li><a href="index.php">Home</a></li>
   <li class="dropdown">
-	<a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
+  <a href="javascript:void(0)" class="active" class="dropbtn2">Catogoriën</a>
     <div class="dropdown-content">
       <a href="AutoEnMotor.php">Auto en Motor</a>
       <a href="Computers.php">Computers</a>
@@ -26,14 +19,3 @@
       <a href="#">Bedrijfsgegevens</a>
     </div>
   </li>
-
-</ul>
-
-</head>
-<body>
-<h>Bol.com</h>
-
-<title>Bol.com</title>
-<link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">
-</body>
-</html>
