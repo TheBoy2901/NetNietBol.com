@@ -1,13 +1,13 @@
-<style>
+
 body {
-  background-color:#0201A3;
+  background-color:white;
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #0201A3;
+  background-color:#0201A3;
 }
 
 li {
@@ -16,7 +16,7 @@ li {
 
 li a, .dropbtn {
   display: inline-block;
-  color: white;
+  color: #0201A3;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -71,4 +71,7 @@ li.dropdown {
 .dropdown2:hover .dropdown-content {
   display: block;
 }
-</style>
+
+tr {
+border-bottom: 2px solid black;
+}
