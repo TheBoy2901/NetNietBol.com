@@ -14,33 +14,20 @@ require_once("navbar.php");
 </head>
 <body>
 
-
-<table style="width:100%">
-
-<html>
-<head>
 <style>
 
-h1 {
-  color: red;
-}
-h3 {
-  color: black;
-}
-
-td {
-  text-align: center;
+table, th, td {
+  border:1px solid black;
 }
 
 </style>
-</head>
 
+<table style="width:100%">
   <tr>
-   <td><a href="bestel.php"><img src="ExamplePlaatjes/macbook.png" width="400" height="333"></td>
-    <td><b>Apple Macbook Pro</b></td>
-    <td><h1>2629</h1></td>
+    <th>Example</th>
+    <th>Product</th>
+    <th>Price</th>
   </tr>
-
 
 <title>Bol.com</title>
 <link rel="icon" type="image/x-icon" href="/plaatjes/scrum.JPG">

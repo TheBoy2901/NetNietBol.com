@@ -10,7 +10,7 @@
 <li><a class="active" href="index.php">Home</a></li>
 
   <li class="dropdown">
-	<a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
+  <a href="javascript:void(0)" class="dropbtn2">Catogoriën</a>
     <div class="dropdown-content">
       <a href="AutoEnMotor.php">Auto en Motor</a>
       <a href="Computers.php">Computers</a>
@@ -57,24 +57,31 @@ align-items: center;
 <div id="productContainer">
     <div class="product">
         <a href="bestel.php?product=parkeerschijf&prijs=100&plaatje=parkeerschijf.jpg">
-        	<img src="ExamplePlaatjes/fc24.png" width="300" height="350">
+          <img src="ExamplePlaatjes/fc24.png" width="300" height="350">
         </a>
-    	<h2>EAFC 24 PS5</h2>
-        <h1>64.99</h1>
+      <h2>EAFC 24 PS5</h2>
+        <h1>64,99</h1>
     </div>
     <div class="product">
         <a href="bestel.php?product=parkeerschijf&prijs=100&plaatje=parkeerschijf.jpg">
-        	<img src="ExamplePlaatjes/motorfest.png" width="300" height="350">
+          <img src="ExamplePlaatjes/motorfest.png" width="300" height="350">
         </a>
         <h2>The Crew Motorfest PS5</h2>
-        <h1>64.99</h1>
+        <h1>64,99</h1>
     </div>
     <div class="product">
         <a href="bestel.php?product=parkeerschijf&prijs=100&plaatje=parkeerschijf.jpg">
-        	<img src="ExamplePlaatjes/goatsim3.png" width="300" height="350">
+          <img src="ExamplePlaatjes/goatsim3.png" width="300" height="350">
         </a>
         <h2>Goat Simulator PS5</h2>
-        <h1>19.99</h1>
+        <h1>19,99</h1>
+    </div>
+  <div class="product">
+        <a href="bestel.php?product=parkeerschijf&prijs=100&plaatje=parkeerschijf.jpg">
+          <img src="ExamplePlaatjes/iphone15.png" width="300" height="350">
+        </a>
+        <h2>Iphone 15</h2>
+        <h1>997,05</h1>
     </div>
 
 </div>

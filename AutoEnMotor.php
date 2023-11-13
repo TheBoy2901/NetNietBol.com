@@ -30,7 +30,7 @@ td {
 </head>
 
   <tr>
-    <td><a href="bestel.php?product=parkeerschijf&prijs=1,25&plaatje=parkeerschijf.jpg"><img src="ExamplePlaatjes/parkeerschijf.jpg" width="500" height="333"></a></td>
+    <td><a href="bestel.php?product=parkeerschijf&prijs=1.25&plaatje=parkeerschijf.jpg"><img src="ExamplePlaatjes/parkeerschijf.jpg" width="500" height="333"></a></td>
     <td><b>Parkeerschijf</b></td>
     <td><h1>1,25</h1></td>
   </tr>
