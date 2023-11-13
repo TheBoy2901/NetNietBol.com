@@ -1,6 +1,7 @@
 body {
   background-color:white;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -15,7 +16,7 @@ li {
 
 li a, .dropbtn {
   display: inline-block;
-  color: white;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -23,19 +24,24 @@ li a, .dropbtn {
 
 li a, .dropbtn2 {
   display: inline-block;
-  color: white;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active), .dropdown:hover .dropdown2:hover .dropbtn {
-#0201A3}
+display: block; 
+}
 
 .active {
-  color: white;
+  color:white;
   font-weight: bold;
   text-decoration: underline;
+}
+
+.white {
+  color: white;
 }
 
 li.dropdown {
@@ -52,7 +58,7 @@ li.dropdown {
 }
 
 .dropdown-content a {
-  color: white;
+  color:gray;
   padding: 12px 16px;
   text-decoration: none;
   display: block;

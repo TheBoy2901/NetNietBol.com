@@ -17,7 +17,7 @@
   <li style="float: right" class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Klantenservice</a>
     <div class="dropdown-content">
-      <a href="#">Contact</a>
-      <a href="#">Over ons</a>
+      <a href="Contact.php">Contact</a>
+      <a href="OverOns.php">Over ons</a>
     </div>
   </li>
